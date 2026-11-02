@@ -1,0 +1,12 @@
+,Depot (Ajmer Junction railway station),Madar Junction area,Adarsh Nagar station area,Ana Sagar Lake area,Naya Bazar area,Vaishali Nagar area,Kaiserganj area,Mayo College area,MDS University area,JLN Hospital area,Ajmer Bus Stand area
+Depot (Ajmer Junction railway station),0.0,4.788,5.333,2.395,0.817,4.303,0.82,1.666,7.469,1.146,1.603
+Madar Junction area,4.788,0.0,6.587,6.134,5.338,7.671,5.313,4.008,5.533,5.804,4.106
+Adarsh Nagar station area,5.333,6.587,0.0,7.678,6.055,9.544,4.789,3.944,11.58,6.127,6.593
+Ana Sagar Lake area,2.395,6.134,7.678,0.0,1.624,1.912,2.902,4.031,6.824,1.622,2.037
+Naya Bazar area,0.817,5.338,6.055,1.624,0.0,3.516,1.3,2.482,7.387,0.478,1.572
+Vaishali Nagar area,4.303,7.671,9.544,1.912,3.516,0.0,4.755,5.942,7.03,3.42,3.745
+Kaiserganj area,0.82,5.313,4.789,2.902,1.3,4.755,0.0,1.631,8.285,1.344,2.422
+Mayo College area,1.666,4.008,3.944,4.031,2.482,5.942,1.631,0.0,7.945,2.761,2.655
+MDS University area,7.469,5.533,11.58,6.824,7.387,7.03,8.285,7.945,0.0,7.782,5.886
+JLN Hospital area,1.146,5.804,6.127,1.622,0.478,3.42,1.344,2.761,7.782,0.0,2.029
+Ajmer Bus Stand area,1.603,4.106,6.593,2.037,1.572,3.745,2.422,2.655,5.886,2.029,0.0

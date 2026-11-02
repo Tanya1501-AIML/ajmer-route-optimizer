@@ -1,0 +1,4 @@
+model,avg_error_min,r2
+Always the average,7.55,-0.0
+Distance only (line),7.26,0.092
+XGBoost (our model),4.78,0.569

@@ -1,0 +1,14 @@
+Routes explained: sa_routes.json
+Conditions: Friday 18:00, High traffic, Sunny, motorcycle
+Reference: an average training trip takes 26.5 min.
+
+Bike 1: Depot -> Madar Junction area -> MDS University area -> Ajmer Bus Stand area -> Depot
+   The model predicts about 23.7 min per leg. Main reasons: weather (Sunny) saves 4.2 min per leg; traffic (High traffic) adds 2.1 min per leg; distance (4.5 km average leg) saves 1.8 min per leg.
+
+Bike 2: Depot -> Kaiserganj area -> Adarsh Nagar station area -> Mayo College area -> Depot
+   The model predicts about 23.4 min per leg. Main reasons: weather (Sunny) saves 4.2 min per leg; traffic (High traffic) adds 2.1 min per leg; distance (2.8 km average leg) saves 1.9 min per leg.
+
+Bike 3: Depot -> JLN Hospital area -> Vaishali Nagar area -> Ana Sagar Lake area -> Naya Bazar area -> Depot
+   The model predicts about 23.3 min per leg. Main reasons: weather (Sunny) saves 4.2 min per leg; traffic (High traffic) adds 2.1 min per leg; distance (1.8 km average leg) saves 2.0 min per leg.
+
+Note: SHAP explains the travel-time MODEL. If Phase 3 used the HYBRID method, the time table uses the model only for the traffic/weather/hour slowdown factor.

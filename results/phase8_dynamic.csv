@@ -1,0 +1,7 @@
+event,method,seconds,cost,total_time_min,total_km,imbalance_min,overload
+1 new order,Cheapest insertion,0.0,173.62,160.63,38.53,25.97,0
+1 new order,Insertion + short SA,0.68,173.62,160.63,38.53,25.97,0
+1 new order,From scratch (GA + SA),2.77,173.62,160.63,38.53,25.97,0
+2 road blocked,Do nothing (keep old plan),0.0,264.64,221.31,38.53,86.65,0
+2 road blocked,Re-optimize remaining (short SA),0.54,186.4,169.16,41.64,34.5,0
+2 road blocked,From scratch (GA + SA),2.73,186.4,169.16,41.64,34.5,0

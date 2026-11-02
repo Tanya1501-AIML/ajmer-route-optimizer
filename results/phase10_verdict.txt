@@ -1,0 +1,8 @@
+Tested on 30 random delivery days (30 where all methods carried every load).
+GA + SA beat nearest neighbour on the cost score in 30 of 30 days.
+Average cost improvement: 11.5% (95% CI 9.3% to 13.7%).
+Total travel time: 6.1% lower, distance: 8.4% lower, CO2: 8.4% lower (all on average).
+Fairness: the gap between the longest and shortest route is 22.5 min smaller than nearest neighbour on average (95% CI of the difference 14.9 to 30.3 min; positive = fairer).
+SA on top of GA added 0.19% (95% CI 0.00% to 0.42%).
+Run time per day: nearest neighbour 0.0 ms, GA 1.7 s, GA+SA 3.7 s.
+ANSWER: Yes. Our system is clearly better than the simple method (the confidence interval is above zero and it wins on most days).

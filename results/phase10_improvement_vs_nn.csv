@@ -1,0 +1,9 @@
+metric,method,better than NN by (%),95% CI,wins
+Cost score,Genetic Algorithm,11.34,"[9.28, 13.46]",30/30
+Cost score,GA + SA,11.51,"[9.30, 13.72]",30/30
+Total time,Genetic Algorithm,5.32,"[2.78, 7.64]",26/30
+Total time,GA + SA,6.12,"[3.85, 8.17]",27/30
+Distance,Genetic Algorithm,7.33,"[4.01, 10.16]",26/30
+Distance,GA + SA,8.36,"[5.51, 11.14]",27/30
+CO2,Genetic Algorithm,7.33,"[3.93, 10.28]",26/30
+CO2,GA + SA,8.36,"[5.28, 10.98]",27/30
